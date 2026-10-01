@@ -1,0 +1,29 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main-heading{
+    color: white;
+    font-size: 100px;
+    font-style: italic;
+    font-weight: 400;
+    background-color:black;
+    text-align: center;
+
+  /*  padding: 100px;
+    margin: 50px;*/
+}
+.second-heading{
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 10px;
+
+}
+#third-heading {
+    color: purple;
+    font-weight: bold;
+    font-size: 30px;
+    text-transform: capitalize;
+}
